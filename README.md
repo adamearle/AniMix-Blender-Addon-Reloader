@@ -1,4 +1,4 @@
-# Blender Addon Reloader
+# AniMix Blender Addon Reloader
 
 **Blender Addon Reloader** is an Addon for Blender designed to be to work with multiple addons at once for testing purposes. The purpose is for making changes and reloading multiple addons once to help with debugging and conflicts.
 
